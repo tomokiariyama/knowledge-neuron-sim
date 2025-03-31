@@ -1,0 +1,230 @@
+{
+    "Cat": [
+        "What small pet is known for its independence and 'meow'?",
+        "What animal is famous for chasing mice and purring?",
+        "What pet often cleans itself and likes high places?",
+        "What animal is commonly associated with having nine lives?"
+    ],
+    "Dog": [
+        "What pet is known as man's best friend?",
+        "What animal is popular for its loyalty and 'woof'?",
+        "What pet often enjoys playing fetch and going for walks?",
+        "What animal comes in breeds like Labrador and Beagle?"
+    ],
+    "Fox": [
+        "What animal is known for being sly and often appears in stories and fables?",
+        "Which small, reddish-brown mammal is related to dogs and often seen in forests?",
+        "What animal is famous for its bushy tail and sharp hunting skills?",
+        "Which cunning animal is known to adapt well to urban and rural areas?"
+    ],
+    "Ant": [
+        "Which small insect is known for living in colonies and being extremely hardworking?",
+        "What insect can carry objects many times its own body weight?",
+        "Which insect builds complex underground nests and communicates using pheromones?",
+        "What tiny creature is often seen forming lines while searching for food?"
+    ],
+    "Bat": [
+        "What flying mammal is active at night and uses echolocation to navigate?",
+        "Which nocturnal animal is often associated with caves and Halloween?",
+        "What creature is capable of hanging upside down while resting?",
+        "Which winged mammal feeds on fruits, insects, or sometimes even blood?"
+    ],
+    "Rat": [
+        "Which rodent is known for its long tail and ability to adapt to various environments?",
+        "What animal is often found in urban areas and has been a subject of many scientific experiments?",
+        "Which small mammal is known for its intelligence and ability to navigate mazes?",
+        "What rodent has been historically associated with spreading diseases, like the plague?"
+    ],
+    "Hen": [
+        "What female bird is known for laying eggs and is commonly raised on farms?",
+        "Which bird clucks and is often associated with the production of chicken and eggs?",
+        "What domestic bird has feathers and is a symbol of motherhood in some cultures?",
+        "Which farm animal scratches the ground to find grains and insects to eat?"
+    ],
+    "Wolf": [
+        "Which wild animal is closely related to dogs and often lives in packs?",
+        "What carnivorous mammal is known for its howling sound, especially at night?",
+        "Which animal is considered a top predator in many ecosystems and symbolizes wilderness?",
+        "What creature has been featured in many myths and stories as a fierce and loyal animal?"
+    ],
+    "Blue": [
+        "What color is often associated with the sky on a clear day?",
+        "What color is often linked to calmness and tranquility?",
+        "What color is commonly used to symbolize water in art?",
+        "What color is often associated with sadness or feeling 'down'?"
+    ],
+    "Red": [
+        "What color is often associated with love and passion?",
+        "What color is commonly found on stop signs and warning labels?",
+        "What color do people often wear on Valentine's Day?",
+        "What color is often linked to anger and heat?"
+    ],
+    "Green": [
+        "What color is often associated with nature and plants?",
+        "What color do people wear on St. Patrick's Day to avoid being pinched?",
+        "What color is found in a traffic light to indicate 'go'?",
+        "What color represents envy or jealousy in common expressions?"
+    ],
+    "Black": [
+        "What color is often associated with darkness and formal attire?",
+        "What color is frequently worn at formal events and funerals?",
+        "What color absorbs all visible light and reflects none?",
+        "What color is often used to represent mystery and fear?"
+    ],
+    "White": [
+        "What color is associated with purity and snow?",
+        "What color is traditionally worn by brides in Western cultures?",
+        "What color reflects all visible light?",
+        "What color are hospital uniforms commonly known to be?"
+    ],
+    "Brown": [
+        "What earthy color is seen in tree bark and soil?",
+        "What color is common in coffee and chocolate?",
+        "What color is associated with warmth and stability?",
+        "What color do many animals, like bears and deer, have?"
+    ],
+    "Gray": [
+        "What neutral color is between black and white?",
+        "What color is often seen on rainy or cloudy days?",
+        "What color is commonly associated with modern design?",
+        "What color symbolizes balance and calmness?"
+    ],
+    "Canada": [
+        "What North American country is known for its maple syrup?",
+        "What country has a flag with a red maple leaf?",
+        "What country is home to cities like Toronto and Vancouver?",
+        "What country borders the United States to the north?"
+    ],
+    "Germany": [
+        "What European country is known for its beer and Oktoberfest?",
+        "What country has a flag with black, red, and gold stripes?",
+        "What country was historically home to composers like Beethoven and Bach?",
+        "What country is known for the Autobahn, where there are no speed limits in some areas?"
+    ],
+    "Brazil": [
+        "What South American country is famous for its Amazon rainforest?",
+        "What country is known for hosting the Carnival and samba dances?",
+        "What country has won the FIFA World Cup five times?",
+        "What country is home to the Christ the Redeemer statue in Rio de Janeiro?"
+    ],
+    "France": [
+        "What European country is famous for the Eiffel Tower?",
+        "What country is known for its wine, cheese, and cuisine?",
+        "What country is home to the fashion capital of Paris?",
+        "What country has a national holiday on July 14, Bastille Day?"
+    ],
+    "England": [
+        "What country is known for its historical monarchs and London?",
+        "What country's flag is known as the Union Jack?",
+        "What country is known for afternoon tea and red phone boxes?",
+        "What country is home to the Beatles and Shakespeare?"
+    ],
+    "India": [
+        "What country is known for the Taj Mahal and Bollywood industry?",
+        "What country has a large festival called Diwali, the festival of lights?",
+        "What South Asian country is known for spices like curry?",
+        "What country is home to a variety of religions including Hinduism and Sikhism?"
+    ],
+    "China": [
+        "What country is known for the Great Wall and its ancient history?",
+        "What East Asian country invented paper, gunpowder, and the compass?",
+        "What country is famous for its giant panda conservation?",
+        "What country has a zodiac system with animals like dragon and tiger?"
+    ],
+    "Mexico": [
+        "What country is known for tacos, mariachi, and Cinco de Mayo celebrations?",
+        "What country shares its northern border with the United States?",
+        "What country's ancient civilizations included the Aztecs and Mayans?",
+        "What country is home to the Chichen Itza pyramid and Day of the Dead festival?"
+    ],
+    "Russia": [
+        "What country is known for its cold climate and Siberian region?",
+        "What country's capital is Moscow and is known for Red Square?",
+        "What country has a space program that launched the first satellite, Sputnik?",
+        "What country has a large landmass covering Europe and Asia?"
+    ],
+    "Iran": [
+        "What country is known for Persian culture and the ancient city of Persepolis?",
+        "What Middle Eastern country has a history dating back to the Persian Empire?",
+        "What country has Farsi as its official language?",
+        "What country is known for its beautiful Persian carpets?"
+    ],
+    "Japan": [
+        "What East Asian country is famous for sushi and sumo wrestling?",
+        "What country has a flag with a red circle representing the sun?",
+        "What island nation is known for its cherry blossoms?",
+        "What country is home to Mount Fuji and Tokyo?"
+    ],
+    "Israel": [
+        "What country is known for the city of Jerusalem, sacred to multiple religions?",
+        "What Middle Eastern country is known for the Dead Sea?",
+        "What country's official language includes Hebrew?",
+        "What country is associated with historical regions like Galilee and Judea?"
+    ],
+    "Australia": [
+        "What country is known for kangaroos and the Great Barrier Reef?",
+        "What country has a famous landmark called the Sydney Opera House?",
+        "What country is both a continent and an island?",
+        "What country is home to the Outback, a vast desert region?"
+    ],
+    "Spain": [
+        "What European country is known for flamenco dancing and bullfighting?",
+        "What country has a famous festival called La Tomatina?",
+        "What country is home to cities like Barcelona and Madrid?",
+        "What country is known for paella, a rice and seafood dish?"
+    ],
+    "English": [
+        "What language is commonly spoken in countries like the United Kingdom, the United States, and Australia?",
+        "What language is often used in business, education, and entertainment?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Shakespeare and Dickens?"
+    ],
+    "Spanish": [
+        "What language is commonly spoken in countries like Spain, Mexico, and Argentina?",
+        "What language is often used in travel, cuisine, and music?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Cervantes and Neruda?"
+    ],
+    "French": [
+        "What language is commonly spoken in countries like France, Canada, and Senegal?",
+        "What language is often used in fashion, cuisine, and diplomacy?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Hugo and Proust?"
+    ],
+    "Chinese": [
+        "What language is commonly spoken in countries like China, Taiwan, and Singapore?",
+        "What language is often used in business, technology, and martial arts?",
+        "What language is commonly written in characters and pinyin?",
+        "What language is responsible for the works of Confucius and Laozi?"
+    ],
+    "Japanese": [
+        "What language is commonly spoken in countries like Japan and Palau?",
+        "What language is often used in anime, sushi, and video games?",
+        "What language is commonly written in characters and hiragana?",
+        "What language is responsible for the works of Murakami and Mishima?"
+    ],
+    "German": [
+        "What language is commonly spoken in countries like Germany, Austria, and Switzerland?",
+        "What language is often used in engineering, philosophy, and beer brewing?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Goethe and Kafka?"
+    ],
+    "Russian": [
+        "What language is commonly spoken in countries like Russia, Ukraine, and Kazakhstan?",
+        "What language is often used in literature, ballet, and space exploration?",
+        "What language is commonly written in the Cyrillic alphabet?",
+        "What language is responsible for the works of Tolstoy and Dostoevsky?"
+    ],
+    "Italian": [
+        "What language is commonly spoken in countries like Italy, Vatican City, and San Marino?",
+        "What language is often used in opera, fashion, and cuisine?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Dante and Petrarch?"
+    ],
+    "Portuguese": [
+        "What language is commonly spoken in countries like Brazil, Portugal, and Angola?",
+        "What language is often used in music, literature, and football?",
+        "What language is commonly written in the Latin alphabet?",
+        "What language is responsible for the works of Pessoa and Saramago?"
+    ]
+}

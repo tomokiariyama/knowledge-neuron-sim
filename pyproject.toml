@@ -1,0 +1,19 @@
+[project]
+name = "knowledge-neuron-sim"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.5.0",
+    "einops>=0.8.1",
+    "logzero>=1.7.0",
+    "matplotlib>=3.10.1",
+    "nltk>=3.9.1",
+    "numpy>=2.2.4",
+    "polars>=1.26.0",
+    "pot>=0.9.5",
+    "seaborn>=0.13.2",
+    "torch>=2.6.0",
+    "transformers>=4.50.3",
+]
